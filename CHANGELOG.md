@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/mnao305/gha-release-test/compare/v1.0.1...v1.1.0) (2021-06-10)
+
+
+### Features
+
+* update readme text ([119fbca](https://www.github.com/mnao305/gha-release-test/commit/119fbca2384e94f06f288410b2a576a9712b4058))
+
 ### [1.0.1](https://www.github.com/mnao305/gha-release-test/compare/v1.0.0...v1.0.1) (2021-06-10)
 
 
