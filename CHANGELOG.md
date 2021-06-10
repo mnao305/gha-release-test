@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/mnao305/gha-release-test/compare/v1.0.0...v1.0.1) (2021-06-10)
+
+
+### Bug Fixes
+
+* readme ([f8ae099](https://www.github.com/mnao305/gha-release-test/commit/f8ae09940e7abcd493fd195bc903827a8ab502db))
+
 ## 1.0.0 (2021-06-10)
 
 
