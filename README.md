@@ -2,4 +2,4 @@
 
 テスト用のリポジトリ
 
-aaaaaa
+sssss
