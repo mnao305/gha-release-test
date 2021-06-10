@@ -12,3 +12,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
+      - uses: actions/checkout@v2
+        if: ${{ steps.release.outputs.release_created }}
+      - name: upload asset to release page
+        uses: shogo82148/actions-upload-release-asset@v1
+        if: ${{ steps.release.outputs.release_created }}
+        with:
+          upload_url: ${{ steps.release.outputs.upload_url }}
+          asset_path: README.md
